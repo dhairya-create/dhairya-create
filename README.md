@@ -24,7 +24,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fauth0.com%2Fblog%2Fnext-js-practical-introduction-for-react-developers-part-2%2F&psig=AOvVaw1TyIC9jlvNvEpI_wzVh7st&ust=1704277585763000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIjFwvO-voMDFQAAAAAdAAAAABAE" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -45,13 +44,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/darshan-modi-3a4564198/" target="_blank">
+  <a href="https://www.linkedin.com/in/dhairya-parikh15/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:darshan.modi1310@gmail.com" target="_blank">
+  <a href="mailto:dhairyawork15@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://leetcode.com/darshan_modi13/" target="_blank">
+  <a href="https://leetcode.com/dhairya15/" target="_blank">
     <img src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" width="52" alt="leetcode logo"  />
     
   </a>
