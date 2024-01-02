@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fauth0.com%2Fblog%2Fnext-js-practical-introduction-for-react-developers-part-2%2F&psig=AOvVaw1TyIC9jlvNvEpI_wzVh7st&ust=1704277585763000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIjFwvO-voMDFQAAAAAdAAAAABAE" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
